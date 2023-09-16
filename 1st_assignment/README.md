@@ -10,7 +10,7 @@ Sat 06 Nov 2021 09:35:54 pm EET 217G    /home/rg
 
 Sat 06 Nov 2021 09:36:15 pm EET 217G    /home/rg
 
-Hint: Χρησιμοποιήστε τις εντολές du
+*Hint: Χρησιμοποιήστε τις εντολές du
 
 ******************************************************************************************************************************************
 
@@ -20,7 +20,9 @@ Hint: Χρησιμοποιήστε τις εντολές du
 
 Παράδειγμα χρήσης:
 
-./ex_2.sh /home/tsadimas/Downloads/random 1M
+./ex_2.sh
+
+/home/tsadimas/Downloads/random 1M
 
 11M /home/rg/Downloads/random/test2.img
 
