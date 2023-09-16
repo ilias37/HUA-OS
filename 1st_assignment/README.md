@@ -21,13 +21,21 @@ Hint: Χρησιμοποιήστε τις εντολές du
 Παράδειγμα χρήσης:
 
 ./ex_2.sh /home/tsadimas/Downloads/random 1M
+
 11M /home/rg/Downloads/random/test2.img
+
 rm: remove regular file '/home/rg/Downloads/random/test2.img'? no
+
 11M /home/rg/Downloads/random/test3.img
+
 rm: remove regular file '/home/rg/Downloads/random/test3.img'? no
+
 11M /home/rg/Downloads/random/test4.img
+
 rm: remove regular file '/home/rg/Downloads/random/test4.img'? no
+
 11M /home/rg/Downloads/random/test.img
+
 rm: remove regular file '/home/rg/Downloads/random/test.img'? no
 
 Hint: Χρησιμοποιήστε τις εντολές: find, cut, awk
@@ -43,6 +51,7 @@ Hint: Χρησιμοποιήστε τις εντολές: find, cut, awk
 Παραδειγματα:
 
 ./ex_3.sh
+
 Root filesystem size: 238G
 
 Home directory size: 125G
@@ -66,26 +75,38 @@ Hint:  Χρησιμοποιήστε τις εντολές df, du, awk, bc
 2) QR
 3) ip
 4) quit
+
 Please select an option: 1
+
 Creating backup...
+
 1) backup
 2) QR
 3) ip
 4) quit
+
 Please select an option: 2
+
 Give the text for QR code :test text
+
 qr file saved to /tmp/qr-file
+
 1) backup
 2) QR
 3) ip
 4) quit
+
 Please select an option: 3
+
 Your ip is 83.212.242.54
+
 1) backup
 2) QR
 3) ip
 4) quit
+
 Please select an option: 4
+
 Bye bye...
 
 Hint:  Χρησιμοποιήστε τις εντολές select, read
